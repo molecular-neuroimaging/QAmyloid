@@ -4,7 +4,7 @@ The ultimate goal of Q Amyloid is not to introduce new biological findings, but 
 
 ## 📋 Gain Access to the platform  
 Spiegare che per la piattaforma serve un certificato per motivi di sicurezza
-Compile the google form at this link: https://docs.google.com/forms/d/e/1FAIpQLSd3liL1fg8f9BLAtlgN7KQRypPxO8I4oZXz0wWTd-zhfMoZlA/viewform?usp=header
+Compile the Google form at this link: https://docs.google.com/forms/d/e/1FAIpQLSd3liL1fg8f9BLAtlgN7KQRypPxO8I4oZXz0wWTd-zhfMoZlA/viewform?usp=header
 
 ## 📖 User Manual
 To learn how Q Amyloid works, please refer to the user manual included in this repository.  
