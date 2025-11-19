@@ -1,4 +1,4 @@
-![Logo](QAmyloid_Siena_Logo.png) 
+![Logo](QAmyloid_Siena_logo.png) 
 
 # Q Amyloid Platform – Enabling Accessible Amyloid Quantification
 
